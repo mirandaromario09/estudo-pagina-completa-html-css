@@ -45,4 +45,4 @@ canva/
 - Suporte a `prefers-reduced-motion`
 
 ---
-[Ver online](https://mirandaromario09.github.io/estudo-pagina-completa-html-css/)
+[Ver online](https://mirandaromario09.github.io/projeto-pagina-completa-html-css/)
